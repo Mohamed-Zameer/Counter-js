@@ -1,0 +1,25 @@
+#counter{
+  display: block;
+  text-align: center;
+  font-size: 10em;
+}
+
+#clickables{
+  text-align: center;
+}
+
+.buttons{
+  padding: 10px;
+  border-radius: 5px;
+  display: inline-block;
+  border-color: black;
+  background-color: grey;
+  color: black;
+  font-weight: bold;
+  transition: 0.5s;
+}
+
+.buttons:hover{
+  opacity: 50%;
+  cursor: pointer;
+}
