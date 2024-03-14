@@ -1,4 +1,3 @@
--Below is the url for this project 👇🏻
+-Live demo of this project
 
-
-https://mohamed-zameer.github.io/Counter-js/
+Click the link to view (https://mohamed-zameer.github.io/Counter-js/)
